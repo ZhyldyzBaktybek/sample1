@@ -1,0 +1,50 @@
+/* h2 {
+    color: brown;
+}
+
+h1 {
+    color: yellowgreen;
+}
+
+p {
+    background-color: green;
+    color: black;
+}
+
+#special_paragraph {
+    background-color: aliceblue;
+color: blueviolet;
+}
+
+.second_paragraph {
+    background-color: brown;
+    color:aqua;
+} */
+
+* {
+    color: black;
+}
+
+div {
+    background-color: yellow;
+}
+
+button:hover {
+    background-color: red;
+    color: white;
+}
+
+p {
+    margin: 15px;
+    padding: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: normal;
+    line-height: 1;
+    font-weight: normal;
+}
+
+body {
+    background-image: url("");
+    background-attachment: fixed;
+    background: linear-gradient(90deg, green, rgb(91, 255, 91), white);
+}
